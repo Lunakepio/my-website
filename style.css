@@ -1,0 +1,32 @@
+body {
+    background-color:antiquewhite;
+}
+
+p{
+    color: whitesmoke;
+    text-align: center;
+}
+img {
+    height: 250px;
+    display: block;
+    margin: 0, auto;
+
+}
+span{
+    background-color: yellow;
+}
+h1{
+    text-align: center;
+}
+
+.oui {
+    width: 5 px;
+}
+.CNI {
+    padding-top: 50px;
+    background-color:aliceblue;
+    font-size: larger;
+    margin: 50px;
+    padding: 50px;
+    display: flex;
+}
