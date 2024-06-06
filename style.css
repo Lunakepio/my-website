@@ -1,0 +1,51 @@
+body {
+}
+
+h1{
+    text-align:center;
+    margin-bottom: 100px;
+    background: rgb(112, 114, 209);
+}
+
+p{
+    margin-left:auto;
+    margin-bottom: 0 px;
+    color:rgb(2, 0, 0);
+    font-size: 2em;
+    background: rgba(155, 156, 155, 0.598);
+    padding: 5px; /
+}
+
+div{
+
+}
+
+a{
+    color:rgb(2, 0, 0);
+    background: rgba(155, 156, 155, 0.598);
+    margin-left:50px;
+}
+
+img{
+    width: 30px;
+    height: 30px;
+}
+
+.img2fond{
+    background-image: url('./source/lines.png');
+    background-size: cover; /* ou 'contain', selon vos besoins */
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh; /* Assurez-vous que l'élément couvre toute la hauteur de la fenêtre */
+    margin: 0;
+    position: relative;  
+}
+
+.premiere_liste{
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+.deuxieme_bloc{
+    margin-left: 20px;
+}
