@@ -1,3 +1,3 @@
-var namepersonnage1 = "Venom";
-var namepersonnage2 = "SpiderMan";
-console.log("".concat(namepersonnage1, " vs ").concat(namepersonnage2));
+var villain = "Venom";
+var heros = "SpiderMan";
+console.log("".concat(villain, " vs ").concat(heros));

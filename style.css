@@ -1,0 +1,27 @@
+body{
+    background:red;
+    width: 500px;
+    height: 100px;
+}
+
+h1{
+    color: black;
+}
+
+p{
+    color:white;
+}
+
+li{
+    color: white;
+}
+
+img{
+    width: 300px;
+}
+
+div{
+    margin-left: 10px 0px 10px 10px;
+    background: black;
+    padding: 1px;
+}

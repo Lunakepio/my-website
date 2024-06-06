@@ -1,3 +1,3 @@
-const namepersonnage1: string = "Venom";
-const namepersonnage2: string = "SpiderMan";
-console.log(`${namepersonnage1} vs ${namepersonnage2}`);
+const villain : string = "Venom";
+const heros : string = "SpiderMan";
+console.log(`${villain} vs ${heros}`);
