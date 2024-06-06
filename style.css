@@ -14,7 +14,7 @@ p.titre {
 }
 
 img {
-    width: 1000px;
+    width: 700px;
     height: 500px;
     display: block;
     /* border-radius: 50%; */
@@ -35,8 +35,10 @@ div.essai {
     background-color: white;
     border: 1px solid black;
     border-radius: 10px;
-    padding: 50px;
-    margin: 60px;
+    padding: 30px;
+    margin: 30px;
+    display: flex;
+    flex-direction: row;
 }
 
 div.reussi {
@@ -45,4 +47,6 @@ div.reussi {
     border-radius: 10px;
     padding: 30px;
     margin: 30px;
+    display: flex;
+    flex-direction: row;
 }
