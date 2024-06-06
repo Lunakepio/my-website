@@ -7,10 +7,24 @@ p {
     text-align: center;
 }
 
+p.titre {
+    color: white;
+    text-align: center;
+    font-size: 130px;
+}
+
 img {
-    width: 700px;
+    width: 1000px;
     height: 500px;
-    border-radius: 50%;
+    display: block;
+    /* border-radius: 50%; */
+}
+
+img.univers {
+    border: 15px solid black;
+    width: 1500px;
+    height: 700px;
+   /* border-radius: 150%; */
 }
 
 div {
@@ -21,14 +35,14 @@ div.essai {
     background-color: white;
     border: 1px solid black;
     border-radius: 10px;
-    padding: 10px;
-    margin: 10px;
+    padding: 50px;
+    margin: 60px;
 }
 
 div.reussi {
     background-color:black;
     border: 1px solid white;
     border-radius: 10px;
-    padding: 10px;
-    margin: 10px;
+    padding: 30px;
+    margin: 30px;
 }
