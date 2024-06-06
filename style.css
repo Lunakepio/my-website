@@ -1,0 +1,51 @@
+body {
+    background: powderblue;
+}
+
+p {
+    color: blueviolet;
+    text-align: center;
+}
+
+h1 {
+    color: blueviolet;
+    text-align: center;
+}
+
+img {
+    height: 100px;
+}
+
+div{
+    margin: 50px 200px 0px 25px;
+    background: pink;
+    height: 435px;
+    width: 250px;
+}
+
+.photo {
+    display: block;
+    margin: 0 auto;
+}
+
+.infos {
+    text-align: left;
+}
+
+h4 {
+    text-align: center;
+    color:blueviolet;
+}
+
+.cardtext {
+    text-align:center;
+}
+
+.marguerite {
+    display: block; 
+    margin-left: 150px;
+}
+
+li {
+    color: blueviolet;
+}
