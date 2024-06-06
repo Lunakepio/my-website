@@ -1,1 +1,2 @@
-console.log("Hello world!");
+var pseudo = prompt("What is your pseudo?");
+console.log("Hello, " + pseudo + "!");
